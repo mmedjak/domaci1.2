@@ -5,4 +5,4 @@
 Tokom ovog kursa želim da naučim o:
 - Git
 - Python
-- SQLt
+- SQL
